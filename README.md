@@ -1,5 +1,4 @@
-# Binary_Classification_With_Ordinal_Data
-A project where we see the crucial role of feature selection and ordinal features in the data
+A project where we see the crucial role of feature selection techniques and ordinal features in the data
 
 ---
 * The objective is to use the data (Variable_1 to Variable_45) to fit the best possible model and predict the binary “Target”. Also, we will see how ordinal features contribute to the model along with the extraction of the 'date' kind of data as date alone cannot play a significant role. Still, several other essential features can be derived from these date features, for e.g. season, is_weekend_, is_weekday, is_holiday, etc. which help in increasing the accuracy of the predictive model.
